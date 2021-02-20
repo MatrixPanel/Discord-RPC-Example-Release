@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\Discord RPC Example.exe.config
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\Discord RPC Example.exe
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\Discord RPC Example.pdb
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\DiscordRPC.dll
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\DiscordRPC.pdb
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord_RPC_Example.Form1.resources
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord_RPC_Example.Properties.Resources.resources
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.csproj.CopyComplete
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.exe
+C:\Users\Adam\source\repos\Discord RPC Example\Discord RPC Example\obj\Debug\Discord RPC Example.pdb
