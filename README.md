@@ -1,4 +1,4 @@
-#Discord-RPC-Example
+Discord-RPC-Example
 
 This is the source of a example project i put together for developers that are either new or just dont understand how to use the Discord RPC
 
